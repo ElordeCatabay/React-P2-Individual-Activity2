@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-P2-Individual-Activity2/static/css/main.e7df0243.css",
+    "main.js": "/React-P2-Individual-Activity2/static/js/main.b602d892.js",
+    "static/media/University.png": "/React-P2-Individual-Activity2/static/media/University.132bba6762a440856d36.png",
+    "static/media/cite.png": "/React-P2-Individual-Activity2/static/media/cite.9b933a465fb82ac64ee6.png",
+    "static/media/Logo.png": "/React-P2-Individual-Activity2/static/media/Logo.3f33073e382dffc226d2.png",
+    "index.html": "/React-P2-Individual-Activity2/index.html",
+    "main.e7df0243.css.map": "/React-P2-Individual-Activity2/static/css/main.e7df0243.css.map",
+    "main.b602d892.js.map": "/React-P2-Individual-Activity2/static/js/main.b602d892.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7df0243.css",
+    "static/js/main.b602d892.js"
+  ]
+}
